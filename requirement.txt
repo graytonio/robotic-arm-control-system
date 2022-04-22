@@ -1,2 +1,4 @@
-rpimotorlib
+Flask
+Flask-SocketIO
+simple-websocket
 RPi.GPIO
